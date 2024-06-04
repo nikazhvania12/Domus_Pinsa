@@ -1,0 +1,280 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nzhvania\\source\\repos\\Domus_Pinsa\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EBEDB16D-AB85-4D2A-82B6-2094DCBCCC17}|Domus_Pinsa.Client\\Domus_Pinsa.Client.csproj|c:\\users\\nzhvania\\source\\repos\\domus_pinsa\\domus_pinsa.client\\domus_pinsa.client.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{EBEDB16D-AB85-4D2A-82B6-2094DCBCCC17}|Domus_Pinsa.Client\\Domus_Pinsa.Client.csproj|solutionrelative:domus_pinsa.client\\domus_pinsa.client.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBEDB16D-AB85-4D2A-82B6-2094DCBCCC17}|Domus_Pinsa.Client\\Domus_Pinsa.Client.csproj|c:\\users\\nzhvania\\source\\repos\\domus_pinsa\\domus_pinsa.client\\components\\pages\\pinsafrost.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EBEDB16D-AB85-4D2A-82B6-2094DCBCCC17}|Domus_Pinsa.Client\\Domus_Pinsa.Client.csproj|solutionrelative:domus_pinsa.client\\components\\pages\\pinsafrost.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBEDB16D-AB85-4D2A-82B6-2094DCBCCC17}|Domus_Pinsa.Client\\Domus_Pinsa.Client.csproj|c:\\users\\nzhvania\\source\\repos\\domus_pinsa\\domus_pinsa.client\\components\\pages\\pinsa.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{EBEDB16D-AB85-4D2A-82B6-2094DCBCCC17}|Domus_Pinsa.Client\\Domus_Pinsa.Client.csproj|solutionrelative:domus_pinsa.client\\components\\pages\\pinsa.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBEDB16D-AB85-4D2A-82B6-2094DCBCCC17}|Domus_Pinsa.Client\\Domus_Pinsa.Client.csproj|c:\\users\\nzhvania\\source\\repos\\domus_pinsa\\domus_pinsa.client\\components\\pages\\pinsa.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EBEDB16D-AB85-4D2A-82B6-2094DCBCCC17}|Domus_Pinsa.Client\\Domus_Pinsa.Client.csproj|solutionrelative:domus_pinsa.client\\components\\pages\\pinsa.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBEDB16D-AB85-4D2A-82B6-2094DCBCCC17}|Domus_Pinsa.Client\\Domus_Pinsa.Client.csproj|c:\\users\\nzhvania\\source\\repos\\domus_pinsa\\domus_pinsa.client\\components\\layout\\header.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{EBEDB16D-AB85-4D2A-82B6-2094DCBCCC17}|Domus_Pinsa.Client\\Domus_Pinsa.Client.csproj|solutionrelative:domus_pinsa.client\\components\\layout\\header.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBEDB16D-AB85-4D2A-82B6-2094DCBCCC17}|Domus_Pinsa.Client\\Domus_Pinsa.Client.csproj|c:\\users\\nzhvania\\source\\repos\\domus_pinsa\\domus_pinsa.client\\components\\pages\\home.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{EBEDB16D-AB85-4D2A-82B6-2094DCBCCC17}|Domus_Pinsa.Client\\Domus_Pinsa.Client.csproj|solutionrelative:domus_pinsa.client\\components\\pages\\home.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBEDB16D-AB85-4D2A-82B6-2094DCBCCC17}|Domus_Pinsa.Client\\Domus_Pinsa.Client.csproj|c:\\users\\nzhvania\\source\\repos\\domus_pinsa\\domus_pinsa.client\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EBEDB16D-AB85-4D2A-82B6-2094DCBCCC17}|Domus_Pinsa.Client\\Domus_Pinsa.Client.csproj|solutionrelative:domus_pinsa.client\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBEDB16D-AB85-4D2A-82B6-2094DCBCCC17}|Domus_Pinsa.Client\\Domus_Pinsa.Client.csproj|c:\\users\\nzhvania\\source\\repos\\domus_pinsa\\domus_pinsa.client\\components\\layout\\mainlayout.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{EBEDB16D-AB85-4D2A-82B6-2094DCBCCC17}|Domus_Pinsa.Client\\Domus_Pinsa.Client.csproj|solutionrelative:domus_pinsa.client\\components\\layout\\mainlayout.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBEDB16D-AB85-4D2A-82B6-2094DCBCCC17}|Domus_Pinsa.Client\\Domus_Pinsa.Client.csproj|c:\\users\\nzhvania\\source\\repos\\domus_pinsa\\domus_pinsa.client\\components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EBEDB16D-AB85-4D2A-82B6-2094DCBCCC17}|Domus_Pinsa.Client\\Domus_Pinsa.Client.csproj|solutionrelative:domus_pinsa.client\\components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBEDB16D-AB85-4D2A-82B6-2094DCBCCC17}|Domus_Pinsa.Client\\Domus_Pinsa.Client.csproj|c:\\users\\nzhvania\\source\\repos\\domus_pinsa\\domus_pinsa.client\\components\\layout\\header.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EBEDB16D-AB85-4D2A-82B6-2094DCBCCC17}|Domus_Pinsa.Client\\Domus_Pinsa.Client.csproj|solutionrelative:domus_pinsa.client\\components\\layout\\header.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBEDB16D-AB85-4D2A-82B6-2094DCBCCC17}|Domus_Pinsa.Client\\Domus_Pinsa.Client.csproj|c:\\users\\nzhvania\\source\\repos\\domus_pinsa\\domus_pinsa.client\\wwwroot\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{EBEDB16D-AB85-4D2A-82B6-2094DCBCCC17}|Domus_Pinsa.Client\\Domus_Pinsa.Client.csproj|solutionrelative:domus_pinsa.client\\wwwroot\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBEDB16D-AB85-4D2A-82B6-2094DCBCCC17}|Domus_Pinsa.Client\\Domus_Pinsa.Client.csproj|c:\\users\\nzhvania\\source\\repos\\domus_pinsa\\domus_pinsa.client\\components\\layout\\footer.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EBEDB16D-AB85-4D2A-82B6-2094DCBCCC17}|Domus_Pinsa.Client\\Domus_Pinsa.Client.csproj|solutionrelative:domus_pinsa.client\\components\\layout\\footer.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBEDB16D-AB85-4D2A-82B6-2094DCBCCC17}|Domus_Pinsa.Client\\Domus_Pinsa.Client.csproj|c:\\users\\nzhvania\\source\\repos\\domus_pinsa\\domus_pinsa.client\\components\\layout\\footer.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{EBEDB16D-AB85-4D2A-82B6-2094DCBCCC17}|Domus_Pinsa.Client\\Domus_Pinsa.Client.csproj|solutionrelative:domus_pinsa.client\\components\\layout\\footer.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBEDB16D-AB85-4D2A-82B6-2094DCBCCC17}|Domus_Pinsa.Client\\Domus_Pinsa.Client.csproj|c:\\users\\nzhvania\\source\\repos\\domus_pinsa\\domus_pinsa.client\\components\\routes.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EBEDB16D-AB85-4D2A-82B6-2094DCBCCC17}|Domus_Pinsa.Client\\Domus_Pinsa.Client.csproj|solutionrelative:domus_pinsa.client\\components\\routes.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBEDB16D-AB85-4D2A-82B6-2094DCBCCC17}|Domus_Pinsa.Client\\Domus_Pinsa.Client.csproj|c:\\users\\nzhvania\\source\\repos\\domus_pinsa\\domus_pinsa.client\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EBEDB16D-AB85-4D2A-82B6-2094DCBCCC17}|Domus_Pinsa.Client\\Domus_Pinsa.Client.csproj|solutionrelative:domus_pinsa.client\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBEDB16D-AB85-4D2A-82B6-2094DCBCCC17}|Domus_Pinsa.Client\\Domus_Pinsa.Client.csproj|c:\\users\\nzhvania\\source\\repos\\domus_pinsa\\domus_pinsa.client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBEDB16D-AB85-4D2A-82B6-2094DCBCCC17}|Domus_Pinsa.Client\\Domus_Pinsa.Client.csproj|solutionrelative:domus_pinsa.client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBEDB16D-AB85-4D2A-82B6-2094DCBCCC17}|Domus_Pinsa.Client\\Domus_Pinsa.Client.csproj|c:\\users\\nzhvania\\source\\repos\\domus_pinsa\\domus_pinsa.client\\components\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EBEDB16D-AB85-4D2A-82B6-2094DCBCCC17}|Domus_Pinsa.Client\\Domus_Pinsa.Client.csproj|solutionrelative:domus_pinsa.client\\components\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Domus_Pinsa.Client.csproj",
+              "DocumentMoniker": "C:\\Users\\nzhvania\\source\\repos\\Domus_Pinsa\\Domus_Pinsa.Client\\Domus_Pinsa.Client.csproj",
+              "RelativeDocumentMoniker": "Domus_Pinsa.Client\\Domus_Pinsa.Client.csproj",
+              "ToolTip": "C:\\Users\\nzhvania\\source\\repos\\Domus_Pinsa\\Domus_Pinsa.Client\\Domus_Pinsa.Client.csproj",
+              "RelativeToolTip": "Domus_Pinsa.Client\\Domus_Pinsa.Client.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-04T20:36:08.954Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Home.razor",
+              "DocumentMoniker": "C:\\Users\\nzhvania\\source\\repos\\Domus_Pinsa\\Domus_Pinsa.Client\\Components\\Pages\\Home.razor",
+              "RelativeDocumentMoniker": "Domus_Pinsa.Client\\Components\\Pages\\Home.razor",
+              "ToolTip": "C:\\Users\\nzhvania\\source\\repos\\Domus_Pinsa\\Domus_Pinsa.Client\\Components\\Pages\\Home.razor",
+              "RelativeToolTip": "Domus_Pinsa.Client\\Components\\Pages\\Home.razor",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-01T21:28:25.191Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "app.css",
+              "DocumentMoniker": "C:\\Users\\nzhvania\\source\\repos\\Domus_Pinsa\\Domus_Pinsa.Client\\wwwroot\\app.css",
+              "RelativeDocumentMoniker": "Domus_Pinsa.Client\\wwwroot\\app.css",
+              "ToolTip": "C:\\Users\\nzhvania\\source\\repos\\Domus_Pinsa\\Domus_Pinsa.Client\\wwwroot\\app.css",
+              "RelativeToolTip": "Domus_Pinsa.Client\\wwwroot\\app.css",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-06-03T21:02:08.135Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Home.razor.css",
+              "DocumentMoniker": "C:\\Users\\nzhvania\\source\\repos\\Domus_Pinsa\\Domus_Pinsa.Client\\Components\\Pages\\Home.razor.css",
+              "RelativeDocumentMoniker": "Domus_Pinsa.Client\\Components\\Pages\\Home.razor.css",
+              "ToolTip": "C:\\Users\\nzhvania\\source\\repos\\Domus_Pinsa\\Domus_Pinsa.Client\\Components\\Pages\\Home.razor.css",
+              "RelativeToolTip": "Domus_Pinsa.Client\\Components\\Pages\\Home.razor.css",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-06-01T21:37:25.08Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MainLayout.razor",
+              "DocumentMoniker": "C:\\Users\\nzhvania\\source\\repos\\Domus_Pinsa\\Domus_Pinsa.Client\\Components\\Layout\\MainLayout.razor",
+              "RelativeDocumentMoniker": "Domus_Pinsa.Client\\Components\\Layout\\MainLayout.razor",
+              "ToolTip": "C:\\Users\\nzhvania\\source\\repos\\Domus_Pinsa\\Domus_Pinsa.Client\\Components\\Layout\\MainLayout.razor",
+              "RelativeToolTip": "Domus_Pinsa.Client\\Components\\Layout\\MainLayout.razor",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-01T21:11:25.098Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MainLayout.razor.css",
+              "DocumentMoniker": "C:\\Users\\nzhvania\\source\\repos\\Domus_Pinsa\\Domus_Pinsa.Client\\Components\\Layout\\MainLayout.razor.css",
+              "RelativeDocumentMoniker": "Domus_Pinsa.Client\\Components\\Layout\\MainLayout.razor.css",
+              "ToolTip": "C:\\Users\\nzhvania\\source\\repos\\Domus_Pinsa\\Domus_Pinsa.Client\\Components\\Layout\\MainLayout.razor.css",
+              "RelativeToolTip": "Domus_Pinsa.Client\\Components\\Layout\\MainLayout.razor.css",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-06-01T21:11:21.323Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Pinsa.razor",
+              "DocumentMoniker": "C:\\Users\\nzhvania\\source\\repos\\Domus_Pinsa\\Domus_Pinsa.Client\\Components\\Pages\\Pinsa.razor",
+              "RelativeDocumentMoniker": "Domus_Pinsa.Client\\Components\\Pages\\Pinsa.razor",
+              "ToolTip": "C:\\Users\\nzhvania\\source\\repos\\Domus_Pinsa\\Domus_Pinsa.Client\\Components\\Pages\\Pinsa.razor",
+              "RelativeToolTip": "Domus_Pinsa.Client\\Components\\Pages\\Pinsa.razor",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-01T21:33:02.448Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Pinsa.razor.css",
+              "DocumentMoniker": "C:\\Users\\nzhvania\\source\\repos\\Domus_Pinsa\\Domus_Pinsa.Client\\Components\\Pages\\Pinsa.razor.css",
+              "RelativeDocumentMoniker": "Domus_Pinsa.Client\\Components\\Pages\\Pinsa.razor.css",
+              "ToolTip": "C:\\Users\\nzhvania\\source\\repos\\Domus_Pinsa\\Domus_Pinsa.Client\\Components\\Pages\\Pinsa.razor.css",
+              "RelativeToolTip": "Domus_Pinsa.Client\\Components\\Pages\\Pinsa.razor.css",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-06-01T21:36:58.437Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PinsaFrost.razor",
+              "DocumentMoniker": "C:\\Users\\nzhvania\\source\\repos\\Domus_Pinsa\\Domus_Pinsa.Client\\Components\\Pages\\PinsaFrost.razor",
+              "RelativeDocumentMoniker": "Domus_Pinsa.Client\\Components\\Pages\\PinsaFrost.razor",
+              "ToolTip": "C:\\Users\\nzhvania\\source\\repos\\Domus_Pinsa\\Domus_Pinsa.Client\\Components\\Pages\\PinsaFrost.razor",
+              "RelativeToolTip": "Domus_Pinsa.Client\\Components\\Pages\\PinsaFrost.razor",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-03T21:34:07.197Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Header.razor.css",
+              "DocumentMoniker": "C:\\Users\\nzhvania\\source\\repos\\Domus_Pinsa\\Domus_Pinsa.Client\\Components\\Layout\\Header.razor.css",
+              "RelativeDocumentMoniker": "Domus_Pinsa.Client\\Components\\Layout\\Header.razor.css",
+              "ToolTip": "C:\\Users\\nzhvania\\source\\repos\\Domus_Pinsa\\Domus_Pinsa.Client\\Components\\Layout\\Header.razor.css",
+              "RelativeToolTip": "Domus_Pinsa.Client\\Components\\Layout\\Header.razor.css",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-06-01T21:11:03.816Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Header.razor",
+              "DocumentMoniker": "C:\\Users\\nzhvania\\source\\repos\\Domus_Pinsa\\Domus_Pinsa.Client\\Components\\Layout\\Header.razor",
+              "RelativeDocumentMoniker": "Domus_Pinsa.Client\\Components\\Layout\\Header.razor",
+              "ToolTip": "C:\\Users\\nzhvania\\source\\repos\\Domus_Pinsa\\Domus_Pinsa.Client\\Components\\Layout\\Header.razor",
+              "RelativeToolTip": "Domus_Pinsa.Client\\Components\\Layout\\Header.razor",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-01T21:10:18.859Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Footer.razor",
+              "DocumentMoniker": "C:\\Users\\nzhvania\\source\\repos\\Domus_Pinsa\\Domus_Pinsa.Client\\Components\\Layout\\Footer.razor",
+              "RelativeDocumentMoniker": "Domus_Pinsa.Client\\Components\\Layout\\Footer.razor",
+              "ToolTip": "C:\\Users\\nzhvania\\source\\repos\\Domus_Pinsa\\Domus_Pinsa.Client\\Components\\Layout\\Footer.razor",
+              "RelativeToolTip": "Domus_Pinsa.Client\\Components\\Layout\\Footer.razor",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-01T21:10:15.826Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Footer.razor.css",
+              "DocumentMoniker": "C:\\Users\\nzhvania\\source\\repos\\Domus_Pinsa\\Domus_Pinsa.Client\\Components\\Layout\\Footer.razor.css",
+              "RelativeDocumentMoniker": "Domus_Pinsa.Client\\Components\\Layout\\Footer.razor.css",
+              "ToolTip": "C:\\Users\\nzhvania\\source\\repos\\Domus_Pinsa\\Domus_Pinsa.Client\\Components\\Layout\\Footer.razor.css",
+              "RelativeToolTip": "Domus_Pinsa.Client\\Components\\Layout\\Footer.razor.css",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-06-01T21:10:10.976Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "_Imports.razor",
+              "DocumentMoniker": "C:\\Users\\nzhvania\\source\\repos\\Domus_Pinsa\\Domus_Pinsa.Client\\Components\\_Imports.razor",
+              "RelativeDocumentMoniker": "Domus_Pinsa.Client\\Components\\_Imports.razor",
+              "ToolTip": "C:\\Users\\nzhvania\\source\\repos\\Domus_Pinsa\\Domus_Pinsa.Client\\Components\\_Imports.razor",
+              "RelativeToolTip": "Domus_Pinsa.Client\\Components\\_Imports.razor",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-01T21:22:49.213Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\nzhvania\\source\\repos\\Domus_Pinsa\\Domus_Pinsa.Client\\Program.cs",
+              "RelativeDocumentMoniker": "Domus_Pinsa.Client\\Program.cs",
+              "ToolTip": "C:\\Users\\nzhvania\\source\\repos\\Domus_Pinsa\\Domus_Pinsa.Client\\Program.cs",
+              "RelativeToolTip": "Domus_Pinsa.Client\\Program.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T21:31:57.006Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\nzhvania\\source\\repos\\Domus_Pinsa\\Domus_Pinsa.Client\\appsettings.json",
+              "RelativeDocumentMoniker": "Domus_Pinsa.Client\\appsettings.json",
+              "ToolTip": "C:\\Users\\nzhvania\\source\\repos\\Domus_Pinsa\\Domus_Pinsa.Client\\appsettings.json",
+              "RelativeToolTip": "Domus_Pinsa.Client\\appsettings.json",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-01T21:32:01.986Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Routes.razor",
+              "DocumentMoniker": "C:\\Users\\nzhvania\\source\\repos\\Domus_Pinsa\\Domus_Pinsa.Client\\Components\\Routes.razor",
+              "RelativeDocumentMoniker": "Domus_Pinsa.Client\\Components\\Routes.razor",
+              "ToolTip": "C:\\Users\\nzhvania\\source\\repos\\Domus_Pinsa\\Domus_Pinsa.Client\\Components\\Routes.razor",
+              "RelativeToolTip": "Domus_Pinsa.Client\\Components\\Routes.razor",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-01T21:32:03.004Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

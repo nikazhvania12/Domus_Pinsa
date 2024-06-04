@@ -1,0 +1,46 @@
+﻿.product {
+    width: 30%;
+    height: 300px;
+    margin: 20px;
+    background-color: white;
+    display: flex;
+    justify-content: space-around;
+    padding: 15px;
+    font-family: 'Gill Sans', sans-serif;
+    border-radius: 20px;
+    transition: transform 0.3s ease;
+    display:inline-flex;
+}
+.product:hover {
+    transform: scale(1.05);
+}
+.image {
+    width: 70%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.image img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    border-radius: 10px;
+}
+.info {
+    width: 33%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    padding: 10px;
+}
+.title {
+    text-transform: uppercase;
+    font-weight: bold;
+    color: #1d811c;
+    border-bottom: red solid 5px;
+}
+span {
+    text-align: center;
+}

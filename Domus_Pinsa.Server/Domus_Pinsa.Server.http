@@ -1,0 +1,6 @@
+@Domus_Pinsa.Server_HostAddress = http://localhost:5098
+
+GET {{Domus_Pinsa.Server_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

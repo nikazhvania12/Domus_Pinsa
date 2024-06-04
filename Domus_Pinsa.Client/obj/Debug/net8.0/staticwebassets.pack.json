@@ -1,0 +1,61 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\nzhvania\\source\\repos\\Domus_Pinsa\\Domus_Pinsa.Client\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Domus_Pinsa.Client.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Domus_Pinsa.Client.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\nzhvania\\source\\repos\\Domus_Pinsa\\Domus_Pinsa.Client\\wwwroot\\Images\\Logo.jpg",
+      "PackagePath": "staticwebassets\\Images\\Logo.jpg"
+    },
+    {
+      "Id": "C:\\Users\\nzhvania\\source\\repos\\Domus_Pinsa\\Domus_Pinsa.Client\\wwwroot\\Images\\Pinsa.jpg",
+      "PackagePath": "staticwebassets\\Images\\Pinsa.jpg"
+    },
+    {
+      "Id": "C:\\Users\\nzhvania\\source\\repos\\Domus_Pinsa\\Domus_Pinsa.Client\\wwwroot\\Images\\Pinsa_Frost.jpg",
+      "PackagePath": "staticwebassets\\Images\\Pinsa_Frost.jpg"
+    },
+    {
+      "Id": "C:\\Users\\nzhvania\\source\\repos\\Domus_Pinsa\\Domus_Pinsa.Client\\wwwroot\\Images\\bri_flag.png",
+      "PackagePath": "staticwebassets\\Images\\bri_flag.png"
+    },
+    {
+      "Id": "C:\\Users\\nzhvania\\source\\repos\\Domus_Pinsa\\Domus_Pinsa.Client\\wwwroot\\Images\\ge_flag.png",
+      "PackagePath": "staticwebassets\\Images\\ge_flag.png"
+    },
+    {
+      "Id": "C:\\Users\\nzhvania\\source\\repos\\Domus_Pinsa\\Domus_Pinsa.Client\\wwwroot\\app.css",
+      "PackagePath": "staticwebassets\\app.css"
+    },
+    {
+      "Id": "C:\\Users\\nzhvania\\source\\repos\\Domus_Pinsa\\Domus_Pinsa.Client\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\nzhvania\\source\\repos\\Domus_Pinsa\\Domus_Pinsa.Client\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\nzhvania\\source\\repos\\Domus_Pinsa\\Domus_Pinsa.Client\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Domus_Pinsa.Client.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Domus_Pinsa.Client.props",
+      "PackagePath": "build\\Domus_Pinsa.Client.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Domus_Pinsa.Client.props",
+      "PackagePath": "buildMultiTargeting\\Domus_Pinsa.Client.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Domus_Pinsa.Client.props",
+      "PackagePath": "buildTransitive\\Domus_Pinsa.Client.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

@@ -1,0 +1,361 @@
+/* _content/Domus_Pinsa.Client/Components/Layout/Footer.razor.rz.scp.css */
+.footer[b-j74k6k4w9v] {
+    width: 100%;
+    height: 150px;
+    background-color: #2F4F4F;
+}
+/* _content/Domus_Pinsa.Client/Components/Layout/Header.razor.rz.scp.css */
+.header[b-gwlv0ixfj8] {
+    width: 100%;
+    height: 75px;
+    display: flex;
+    align-content: space-between;
+    border-bottom: 5px solid transparent;
+    border-image: 16 repeating-linear-gradient(-45deg, red 0, red 1em, transparent 0, transparent 2em, #1d811c 0, #58a 3em, transparent 0, transparent 4em);
+    font: 100%/1.6 Baskerville, Palatino, serif;
+    font-family: serif;
+    background-color: white;
+    position: fixed;
+    z-index: 5;
+}
+
+.header-link[b-gwlv0ixfj8] {
+    text-decoration: none;
+    color: black;
+}
+
+.nav[b-gwlv0ixfj8] {
+    margin: 25px;
+    text-transform: uppercase;
+    font-weight: bold;
+}
+
+.header-child[b-gwlv0ixfj8] {
+    display: flex;
+    width: 100%;
+    align-items: center
+}
+
+.logo[b-gwlv0ixfj8] {
+    width: 55px;
+    height: 55px;
+    margin: 10px 20px;
+}
+
+.right[b-gwlv0ixfj8] {
+    justify-content: flex-end;
+    margin-right: 35px;
+}
+
+.flag[b-gwlv0ixfj8] {
+    width: 40px;
+    height: 25px;
+    margin: 5px 10px;
+}
+
+.switch[b-gwlv0ixfj8] {
+    position: relative;
+    display: inline-block;
+    width: 60px;
+    height: 34px;
+}
+
+    .switch input[b-gwlv0ixfj8] {
+        opacity: 0;
+        width: 0;
+        height: 0;
+    }
+
+.slider[b-gwlv0ixfj8] {
+    position: absolute;
+    cursor: pointer;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: #ccc;
+    -webkit-transition: .4s;
+    transition: .4s;
+}
+
+    .slider[b-gwlv0ixfj8]:before {
+        position: absolute;
+        content: "";
+        height: 26px;
+        width: 26px;
+        left: 4px;
+        bottom: 4px;
+        background-color: white;
+        -webkit-transition: .4s;
+        transition: .4s;
+    }
+
+input:checked + .slider[b-gwlv0ixfj8] {
+    background-color: #1d811c;
+}
+
+input:focus + .slider[b-gwlv0ixfj8] {
+    box-shadow: 0 0 1px #2196F3;
+}
+
+input:checked + .slider[b-gwlv0ixfj8]:before {
+    -webkit-transform: translateX(26px);
+    -ms-transform: translateX(26px);
+    transform: translateX(26px);
+}
+
+.slider.round[b-gwlv0ixfj8] {
+    border-radius: 34px;
+}
+
+    .slider.round[b-gwlv0ixfj8]:before {
+        border-radius: 50%;
+    }
+/* _content/Domus_Pinsa.Client/Components/Layout/MainLayout.razor.rz.scp.css */
+.page[b-0cu9ycoxeu] {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+}
+
+main[b-0cu9ycoxeu] {
+    flex: 1;
+}
+
+.sidebar[b-0cu9ycoxeu] {
+    background-image: linear-gradient(180deg, rgb(5, 39, 103) 0%, #3a0647 70%);
+}
+article[b-0cu9ycoxeu] {
+    padding-top: 120px;
+}
+
+.top-row[b-0cu9ycoxeu] {
+    background-color: #f7f7f7;
+    border-bottom: 1px solid #d6d5d5;
+    justify-content: flex-end;
+    height: 3.5rem;
+    display: flex;
+    align-items: center;
+}
+
+    .top-row[b-0cu9ycoxeu]  a, .top-row[b-0cu9ycoxeu]  .btn-link {
+        white-space: nowrap;
+        margin-left: 1.5rem;
+        text-decoration: none;
+    }
+
+    .top-row[b-0cu9ycoxeu]  a:hover, .top-row[b-0cu9ycoxeu]  .btn-link:hover {
+        text-decoration: underline;
+    }
+
+    .top-row[b-0cu9ycoxeu]  a:first-child {
+        overflow: hidden;
+        text-overflow: ellipsis;
+    }
+
+@media (max-width: 640.98px) {
+    .top-row[b-0cu9ycoxeu] {
+        justify-content: space-between;
+    }
+
+    .top-row[b-0cu9ycoxeu]  a, .top-row[b-0cu9ycoxeu]  .btn-link {
+        margin-left: 0;
+    }
+}
+
+@media (min-width: 641px) {
+    .page[b-0cu9ycoxeu] {
+        flex-direction: row;
+    }
+
+    .sidebar[b-0cu9ycoxeu] {
+        width: 250px;
+        height: 100vh;
+        position: sticky;
+        top: 0;
+    }
+
+    .top-row[b-0cu9ycoxeu] {
+        position: sticky;
+        top: 0;
+        z-index: 1;
+    }
+
+    .top-row.auth[b-0cu9ycoxeu]  a:first-child {
+        flex: 1;
+        text-align: right;
+        width: 0;
+    }
+
+    .top-row[b-0cu9ycoxeu], article[b-0cu9ycoxeu] {
+        padding-left: 2rem !important;
+        padding-right: 1.5rem !important;
+    }
+}
+
+#blazor-error-ui[b-0cu9ycoxeu] {
+    background: lightyellow;
+    bottom: 0;
+    box-shadow: 0 -1px 2px rgba(0, 0, 0, 0.2);
+    display: none;
+    left: 0;
+    padding: 0.6rem 1.25rem 0.7rem 1.25rem;
+    position: fixed;
+    width: 100%;
+    z-index: 1000;
+}
+
+    #blazor-error-ui .dismiss[b-0cu9ycoxeu] {
+        cursor: pointer;
+        position: absolute;
+        right: 0.75rem;
+        top: 0.5rem;
+    }
+
+/* _content/Domus_Pinsa.Client/Components/Pages/Home.razor.rz.scp.css */
+.text[b-syr93nk833], .image[b-syr93nk833] {
+    margin: 15px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.text[b-syr93nk833] {
+    width: 45%;
+}
+.image[b-syr93nk833] {
+    width: 50%;
+}
+.article[b-syr93nk833] {
+    font-family: 'Gill Sans', sans-serif;
+    background-color: white;
+    box-shadow: 0px 0px 20px 0px rgba(0, 0, 0, 0.5);
+    border-radius: 10px;
+    padding: 25px 40px;
+}
+.article img[b-syr93nk833] {
+    width: 100%;
+    height: 95%;
+}
+.f[b-syr93nk833] {
+    display: flex;
+    width: 95%;
+    margin: 0px auto 100px;
+    justify-content: space-between;
+}
+.h[b-syr93nk833] {
+    width: 45%;
+}
+.article h1[b-syr93nk833] {
+    text-transform: uppercase;
+    color: #1d811c;
+    border-bottom: red solid 5px;
+    font-weight: bold;
+    text-align: center; 
+    width: 100%;
+}
+.article p[b-syr93nk833] {
+    width: 100%;
+    text-align: center;
+    text-transform: capitalize;
+    font-family: cursive;
+}
+.text[b-syr93nk833] {
+    display: flex;
+}
+.text-container[b-syr93nk833] {
+    width: 75%;
+}
+.h[b-syr93nk833] {
+    width: 45%;
+    height: 350px;
+    font-family: 'Gill Sans', sans-serif;
+    box-shadow: 0px 0px 20px 0px rgba(0, 0, 0, 0.5);
+    border-radius: 10px;
+    padding: 25px 40px;
+}
+.text2[b-syr93nk833] {
+    width: 100%;
+    height: 50px;
+}
+.container[b-syr93nk833] {
+    display: flex;
+    justify-content: space-between;
+    height: 1000px;
+}
+.t[b-syr93nk833] {
+    height: 600px;
+}
+.video[b-syr93nk833] {
+    width: 80%;
+    height: 250px;
+    margin: 50px auto;
+}
+.video iframe[b-syr93nk833] {
+    width: 100%;
+    height: 100%;
+}
+.v[b-syr93nk833] {
+    height: 450px;
+    width: 100%;
+}
+.video-info-container[b-syr93nk833] {
+    width: 45%;
+    height: 700px;
+}
+
+@media (min-width: 1200px) {
+    .text[b-syr93nk833] {
+        width: 80%;
+    }
+    .image[b-syr93nk833] {
+        width: 80%;
+    }
+}
+
+/* _content/Domus_Pinsa.Client/Components/Pages/Pinsa.razor.rz.scp.css */
+.product[b-7goxafo7ym] {
+    width: 30%;
+    height: 300px;
+    margin: 20px;
+    background-color: white;
+    display: flex;
+    justify-content: space-around;
+    padding: 15px;
+    font-family: 'Gill Sans', sans-serif;
+    border-radius: 20px;
+    transition: transform 0.3s ease;
+    display:inline-flex;
+}
+.product:hover[b-7goxafo7ym] {
+    transform: scale(1.05);
+}
+.image[b-7goxafo7ym] {
+    width: 70%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.image img[b-7goxafo7ym] {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    border-radius: 10px;
+}
+.info[b-7goxafo7ym] {
+    width: 33%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    padding: 10px;
+}
+.title[b-7goxafo7ym] {
+    text-transform: uppercase;
+    font-weight: bold;
+    color: #1d811c;
+    border-bottom: red solid 5px;
+}
+span[b-7goxafo7ym] {
+    text-align: center;
+}
